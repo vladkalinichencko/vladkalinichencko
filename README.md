@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladkalinichencko
+- 👋 Hi, I’m @vladkalinichenko
 - 👀 I’m interested in design, art and programming
 - 🌱 I’m currently learning maths and IT, as well as graphic design and 3D-modelling by myself
 - 💞️ I’m looking to collaborate on AR/VR projects
